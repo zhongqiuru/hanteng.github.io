@@ -44,8 +44,7 @@ Skinny Bones 的主题官网在Github Page上[mmistakes.github.io/skinny-bones-j
 - 执行捆绑执行```bundle exec jekyll serve```把jekyll 伺服器执行
 
 执行效果如：
-<pre><code>
-C:\Users\Hante\Documents\GitHub\hanteng.github.io>bundle exec jekyll serve
+<pre class="highlight"><code>C:\Users\Hante\Documents\GitHub\hanteng.github.io>bundle exec jekyll serve
 Configuration file: C:/Users/me/Documents/GitHub/hanteng.github.io/_config.yml
             Source: C:/Users/me/Documents/GitHub/hanteng.github.io
        Destination: C:/Users/me/Documents/GitHub/hanteng.github.io/_site
