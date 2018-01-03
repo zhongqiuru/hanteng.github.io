@@ -1,21 +1,21 @@
 # Site navigation links
 
-- title: Teaching 教学
-  url: /teaching/
-  excerpt: "含体验式教学及混合式教学"
-  image: learning_teaching.gif
+- title:信息可视化作品集
+  url: /infovis/
+  excerpt: "Tableau"
+  image: 1.gif
 
-- title: i18nl10n
-  url: /i18nl10n/
-  excerpt: "含＂一带一路＂倡议"
-  image: Tower_of_Babel.jpg
+- title: 网页设计与制作作品集
+  url: /porfolio/
+  excerpt: "web"
+  image: 2.gif
 
-- title: SDG
-  url: /SDG/
-  excerpt: "可持续发展，含＂生态文明＂倡议"
-  image: 300x200.gif
+- title: 学习笔记
+  url: /posts/
+  excerpt: "课堂笔记"
+  image: 3.gif
 
-- title: Contact 联络我
-  url: /contact/
-  excerpt: "联络我"
-  image: Pigeon_post.jpg
+- title: 我的资料
+  url: /myself/
+  excerpt: "ZQR的简介"
+  image: ZQR.jpg
