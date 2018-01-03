@@ -1,7 +1,7 @@
 ---
 layout: archive
 permalink: /
-title: "最新文章"
+title: "Try my best"
 ---
 
 <div class="tiles">
