@@ -1,13 +1,13 @@
 # Site navigation links
 
 - title:信息可视化作品集
-  url: /teach/
+  url: /teaching/
   excerpt: "Tableau"
   image: 1.gif
 
 - title: 网页设计与制作作品集
   url: /i18nl10n/
-  excerpt: "web"
+  excerpt: "web设计"
   image: 2.gif
 
 - title: 学习笔记
