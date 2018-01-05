@@ -7,7 +7,7 @@ image:
   teaser: rwd.png
   feature: rwd.png
 ---
-![rwd](https://lamkk.github.io/images/rwd.png)
+![rwd](https://zhongqiuru.github.io/images/rwd.png)
 ## CSS3笔记
 ### CSS3 边框
 用 CSS3，你可以创建圆角边框，添加阴影框，并作为边界的形象而不使用设计程序，如 Photoshop。
