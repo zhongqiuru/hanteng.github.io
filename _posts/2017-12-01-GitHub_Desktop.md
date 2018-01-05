@@ -2,7 +2,7 @@
 layout: article
 title:  "Markdown语法总结"
 date:   2017-12-31 22:07:50 +0800
-categories: notes_tech markdown posts infovis
+categories: notes_tech markdown posts 
 image:
   teaser: github-desktop-icon.svg
   feature: github-desktop-icon.svg

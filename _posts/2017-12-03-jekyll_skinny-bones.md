@@ -2,7 +2,7 @@
 layout: article
 title:  "Tableau信息可视化"
 date:   2018-01-03 08:45:50 +0800
-categories: notes_tech tableau posts infovis
+categories: notes_tech tableau posts 
 image:
   teaser: Jekyll_skinny_bones.jpg
   feature: Jekyll_skinny_bones.jpg
