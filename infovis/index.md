@@ -1,5 +1,5 @@
 -
- -<div class="S组期中项目">
+ -<div class=" title ">
  -{% for post in site.categories.infovis %}
  -  {% include post-grid.html %}
  -{% endfor %}
