@@ -1,5 +1,4 @@
 ---
-layout: archive
 permalink: /
 title: "标题"
 ---
