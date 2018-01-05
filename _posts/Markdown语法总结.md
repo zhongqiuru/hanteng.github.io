@@ -1,3 +1,12 @@
+---
+layout: default
+title:  "信息可视化作品之便利店"
+categories: infovis portfolio
+image:
+  teaser: BLD.png
+  feature: BLD.png
+---
+
 ## Markdown语法
 ### Markdown是什么？
 同样是标记语言，但它相比HTML更加简单！一是体现在标记符的数量上，二是体现在标记符的书写上。HTML标记符号非常多，并且需要标记内容的开始和结束位置，而markdown只有四个基本的标记符号，只要在开始位置标记即可。
