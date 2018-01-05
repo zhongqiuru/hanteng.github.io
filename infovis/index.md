@@ -1,9 +1,6 @@
----
-layout: default
-title:  "S组期中项目"
-tableau[s组期中项目](https://yejiejie.github.io/ye/index.html)。
 
-{% include toc.html %}
-< img src="./images/qizhong.jpg">
-categories: portfolio
----
+-<div class="tiles">
+ -{% for post in site.categories.infovis%}
+ -  {% include post-grid.html %}
+ -{% endfor %}
+ -</div>
