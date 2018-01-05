@@ -3,8 +3,8 @@ layout: default
 title:  "Markdown语法总结"
 categories: infovis portfolio
 image:
-  teaser: BLD.png
-  feature: BLD.png
+  teaser: mdzongjie.jpg
+  feature: mdzongjie.jpg
 ---
 
 ## Markdown语法
