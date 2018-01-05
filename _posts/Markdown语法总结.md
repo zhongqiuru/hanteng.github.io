@@ -1,6 +1,6 @@
 ---
 layout: default
-title:  "信息可视化作品之便利店"
+title:  "Markdown语法总结"
 categories: infovis portfolio
 image:
   teaser: BLD.png
