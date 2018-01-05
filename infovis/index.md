@@ -1,6 +1,6 @@
 -
  -<div class="S组期中项目">
- -{% for post in site.categories.infovis%}
+ -{% for post in site.categories.infovis %}
  -  {% include post-grid.html %}
  -{% endfor %}
  -</div>

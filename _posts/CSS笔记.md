@@ -2,7 +2,7 @@
 layout: article
 title:  "CSS笔记"
 date:   2018-1-05 22:07:50 +0800
-categories: notes_tech CSS posts 
+categories： infovis
 image:
   teaser: rwd.png
   feature: rwd.png
