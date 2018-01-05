@@ -2,7 +2,7 @@
 layout: default
 title:  "css3笔记"
 date:   2018-01-04 23:45:15 +0800
-categories: post rwd
+categories: post 
 ---
 ## CSS3笔记
 ### CSS3 边框
