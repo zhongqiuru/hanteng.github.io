@@ -1,7 +1,7 @@
 ---
 layout: default
 title:  "Markdown语法总结"
-categories: infovis portfolio
+categories: post infovis
 image:
   teaser: mdzongjie.jpg
   feature: mdzongjie.jpg
