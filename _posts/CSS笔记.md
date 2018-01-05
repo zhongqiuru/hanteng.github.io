@@ -1,8 +1,11 @@
 ---
 layout: article
 title:  "CSS笔记"
-date:   2017-01-5 22:07:50 +0800
-categories: notes_tech markdown posts 
+date:   2018-1-05 22:07:50 +0800
+categories: notes_tech CSS posts 
+image:
+  teaser: rwd.png
+  feature: rwd.png
 ---
 ## CSS3笔记
 ### CSS3 边框
