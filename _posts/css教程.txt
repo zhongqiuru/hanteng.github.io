@@ -1,0 +1,42 @@
+---
+layout: article
+title:  "基本用法-jekyll教程"
+date:  更新于 2017-12-29
+categories: posts rwd 
+image:
+  teaser: je_kyll.png
+  feature: je_kyll.png
+
+---
+###  - 目录结构
+
+Jekyll 的核心其实是一个文本转换引擎。它的概念其实就是：你用你最喜欢的标记语言来写文章，可以是 Markdown，也可以是 Textile,或者就是简单的 HTML,然后Jekyll 就会帮你套入一个或一系列的布局中。在整个过程中你可以设置URL路径,你的文本在布局中的显示样式等等。这些都可以通过纯文本编辑来实现，最终生成的静态页面就是你的成品了。
+
+<div class="row img-rounded" style="padding:30px; box-shadow: 10px 10px 5px #888888; border: 1px solid #D19F2A;">
+<div class="col-md-12">
+<div style="background: #D19F2A; color:white; border-radius:6px; padding:6px;"  markdown="1">
+</div>
+</div>
+<div class="col-md-3"><!-- left -->
+ - 一个基本的Jekyll网站的目录结构一般是像这样的：
+ 
+ 
+* config.yml
+* drafts
+* includes
+* ayouts
+* posts
+* date
+* site
+* index.html
+
+
+</div>
+<div class="col-md-9" markdown="1" ><!-- right -->
+
+ - 看看这些目录有什么用
+ 
+ 
+<img src="/images/jekyll_oo.png" alt="jekyll目录的基本用法" style="width: 50%">
+</div>
+</div>
