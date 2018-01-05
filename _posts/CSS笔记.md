@@ -1,8 +1,8 @@
 ---
-layout: default
-title:  "css3笔记"
-date:   2018-01-04 23:45:15 +0800
-categories: post 
+layout: article
+title:  "CSS笔记"
+date:   2017-01-5 22:07:50 +0800
+categories: notes_tech markdown posts 
 ---
 ## CSS3笔记
 ### CSS3 边框
