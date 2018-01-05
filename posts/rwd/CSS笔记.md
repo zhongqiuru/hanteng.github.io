@@ -1,0 +1,145 @@
+---
+layout: default
+title:  "css3笔记"
+date:   2018-01-04 23:45:15 +0800
+categories: post rwd
+---
+## CSS3笔记
+### CSS3 边框
+用 CSS3，你可以创建圆角边框，添加阴影框，并作为边界的形象而不使用设计程序，如 Photoshop。
+
+边框属性：
+
+- border-radius CSS3圆角
+
+- box-shadow  CSS3盒阴影
+
+- border-image CSS3边界图片
+
+### 新边框属性
+border-image	设置所有边框图像的速记属性。
+
+border-radius  一个用于设置所有四个边框半径属性的速记属性	
+
+box-shadow	附加一个或多个下拉框的阴影	
+## CSS3背景
+CSS3中包含几个新的背景属性，提供更大背景元素控制。
+背景属性：
+- background-image
+- background-size
+- background-origin
+- background-clip
+### CSS3 background-image属性
+CSS3中可以通过background-image属性添加背景图片。
+
+不同的背景图像和图像用逗号隔开，所有的图片中显示在最顶端的为第一张。
+
+实例：
+```
+#example1 { 
+    background-image: url(img_flwr.gif), url(paper.gif); 
+    background-position: right bottom, left top; 
+    background-repeat: no-repeat, repeat; 
+}
+```
+可以给不同的图片设置多个不同的属性
+```
+#example1 {
+    background: url(img_flwr.gif) right bottom no-repeat, url(paper.gif) left top repeat;
+}
+```
+
+
+### CSS3 background-size 属性
+background-size指定背景图像的大小。CSS3以前，背景图像大小由图像的实际大小决定。
+
+CSS3中可以指定背景图片，让我们重新在不同的环境中指定背景图片的大小。您可以指定像素或百分比大小。
+
+你指定的大小是相对于父元素的宽度和高度的百分比的大小。
+
+实例一：重置背景图像
+```
+div
+{
+    background:url(img_flwr.gif);
+    background-size:80px 60px;
+    background-repeat:no-repeat;
+}
+```
+实例二：伸展背景图像完全填充内容区域：
+```
+div
+{
+    background:url(img_flwr.gif);
+    background-size:100% 100%;
+    background-repeat:no-repeat;
+}
+```
+
+
+### CSS3的background-Origin属性
+background-Origin属性指定了背景图像的位置区域。
+
+content-box, padding-box,和 border-box区域内可以放置背景图像。
+- background-clip	规定背景的绘制区域。
+
+- background-origin	规定背景图片的定位区域。
+
+- background-size	规定背景图片的尺寸。
+
+实例：在 content-box 中定位背景图片：
+```
+div
+{
+    background:url(img_flwr.gif);
+    background-repeat:no-repeat;
+    background-size:100% 100%;
+    background-origin:content-box;
+}
+```
+
+## CSS3 渐变（Gradients）
+CSS3 渐变（gradients）可以让你在两个或多个指定的颜色之间显示平稳的过渡。
+
+以前，你必须使用图像来实现这些效果。但是，通过使用 CSS3 渐变（gradients），你可以减少下载的事件和宽带的使用。此外，渐变效果的元素在放大时看起来效果更好，因为渐变（gradient）是由浏览器生成的。
+
+CSS3 定义了两种类型的渐变（gradients）：
+
+- 线性渐变（Linear Gradients）- 向下/向上/向左/向右/对角方向
+- 径向渐变（Radial Gradients）- 由它们的中心定义
+
+### CSS3 线性渐变
+为了创建一个线性渐变，你必须至少定义两种颜色结点。颜色结点即你想要呈现平稳过渡的颜色。同时，你也可以设置一个起点和一个方向（或一个角度）。
+- 语法
+```
+background: linear-gradient(direction, color-stop1, color-stop2, ...);
+```
+线性渐变 - 从上到下（默认情况下）
+
+下面的实例演示了从顶部开始的线性渐变。起点是红色，慢慢过渡到蓝色：
+```
+#grad {
+  background: -webkit-linear-gradient(red, blue); /* Safari 5.1 - 6.0 */
+  background: -o-linear-gradient(red, blue); /* Opera 11.1 - 12.0 */
+  background: -moz-linear-gradient(red, blue); /* Firefox 3.6 - 15 */
+  background: linear-gradient(red, blue); /* 标准的语法 */
+}
+```
+### 使用角度
+如果你想要在渐变的方向上做更多的控制，你可以定义一个角度，而不用预定义方向（to bottom、to top、to right、to left、to bottom right，等等）。
+语法
+``` 
+background: linear-gradient(angle, color-stop1, color-stop2);
+```
+实例
+带有指定的角度的线性渐变：
+```
+#grad {
+  background: -webkit-linear-gradient(180deg, red, blue); /* Safari 5.1 - 6.0 */
+  background: -o-linear-gradient(180deg, red, blue); /* Opera 11.1 - 12.0 */
+  background: -moz-linear-gradient(180deg, red, blue); /* Firefox 3.6 - 15 */
+  background: linear-gradient(180deg, red, blue); /* 标准的语法 */
+}
+```
+
+
