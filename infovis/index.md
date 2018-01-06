@@ -13,10 +13,10 @@ image:
 ### 在此展示学生可视化作品集！！ 
 #### ↓ ↓ ↓
 
-<iframe src="https://public.tableau.com/shared/PCJG6GMY5?:display_count=yes" width="685px" height="570px" frameborder="0"></iframe>
+<iframe src="https://public.tableau.com/shared/PCJG6GMY5?:display_count=yes" width="700px" height="600px" frameborder="0"></iframe>
 
 <div class="tiles">
-{% for post in site.categories.infovis %}
+{% for post in site.categories.tab %}
   {% include post-grid.html %}
 {% endfor %}
-</div><!-- /.tiles 把所有categories 有 infovis 的列出来-->
+</div><!-- /.tiles 把所有categories 有 tab 的列出来-->
