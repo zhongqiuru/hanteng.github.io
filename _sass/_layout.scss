@@ -374,7 +374,7 @@
  }
  
  @media print {
-  #masthead,nav, button, html [type=button], .menu-screen {
+     #masthead,nav, button, html [type=button], .menu-screen {
          display: none;
      }
      html, body {
@@ -402,18 +402,18 @@
  		border: 1px white dotted;
     	height: 256mm;
  		outline: 2cm #cbecff solid;
- 	}
+ 	 }
  
  
  
- 		
-     p {
- 	    font-size: 0.625rem !important;		
- 	}
- 	h1 {
+ 		 
+      p {
+ 	      font-size: 0.625rem !important;		
+ 	 }
+ 	  h1 {
  	    font-size: 1rem !important;		
- 	}
- 	h2, h3, h4, h5, h6 {
- 	    font-size: 0.75rem !important;		
- 	}
+ 	 }
+ 	  h2, h3, h4, h5, h6 {
+ 	      font-size: 0.75rem !important;		
+ 	 }
  }
