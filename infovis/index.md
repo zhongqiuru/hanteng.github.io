@@ -6,14 +6,14 @@ modified:
 excerpt: "展示学生的信息可视化作品"
 tags: []
 image: 
-  feature: xinxi.jpg
+  feature: 
   teaser:
 ---
 
 ### 在此展示学生可视化作品集！！ 
 #### ↓ ↓ ↓
 
-<iframe src="https://public.tableau.com/shared/PCJG6GMY5?:display_count=yes" width="700px" height="600px" frameborder="0"></iframe>
+<iframe src="https://public.tableau.com/shared/PCJG6GMY5?:display_count=yes" width="1000px" height="1000px" frameborder="0"></iframe>
 
 <div class="tiles">
 {% for post in site.categories.tab %}
