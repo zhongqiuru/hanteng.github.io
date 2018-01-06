@@ -10,7 +10,8 @@ image:
   teaser:
 ---
 
-### 在此展示学生可视化作品集！！ ↓ ↓ ↓
+### 在此展示学生可视化作品集！！ 
+#### ↓ ↓ ↓
 
 <iframe src="https://public.tableau.com/shared/PCJG6GMY5?:display_count=yes" width="685px" height="570px" frameborder="0"></iframe>
 
