@@ -13,7 +13,7 @@ image:
 在此展示学生网页设计与制作的作品集！！
 
 <div class="tiles">
-{% for post in site.categories.webnote %}
+{% for post in site.categories.rwd %}
   {% include post-grid.html %}
 {% endfor %}
 </div><!-- /.tiles -->
