@@ -1,16 +1,26 @@
 # Site navigation links
-
-- title: 信息可视化作品集
-  url: /infovis/
-  excerpt: "Tableau"
-  image: 1.gif
-
-- title: 网页设计与制作作品集
+  
+  - title: 网页设计与制作作品集
   url: /portfolio/
   excerpt: "web设计"
   image: 2.gif
 
-- title: 学习笔记
-  url: /posts/
-  excerpt: "课堂笔记"
+- title: 信息可视化作品展示
+  url: /infovis/
+  excerpt: "Tableau"
+  image: 1.gif
+  
+  - title: 网页设计学习笔记
+  url: /posts/rwd/
+  excerpt: "在此展示学生学习笔记"
+  image: xinde.jpg
+
+- title: 信息可视化笔记
+  url: /posts/infovis/
+  excerpt: "信息可视化笔记集合"
   image: 3.gif
+
+- title: 联络我
+  url: /contact/
+  excerpt: "联络我"
+  image: contact.jpg
