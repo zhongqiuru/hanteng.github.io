@@ -6,7 +6,7 @@ modified:
 excerpt: "展示学生的信息可视化作品"
 tags: []
 image: 
-  feature: 信息.jpg
+  feature: xinxi.jpg
   teaser:
 ---
 
