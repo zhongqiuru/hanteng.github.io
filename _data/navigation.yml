@@ -1,6 +1,6 @@
 # Site navigation links
   
-  - title: 网页设计与制作作品集
+- title: 网页设计与制作作品集
   url: /portfolio/
   excerpt: "web设计"
   image: 2.gif
@@ -10,7 +10,7 @@
   excerpt: "Tableau"
   image: 1.gif
   
-  - title: 网页设计学习笔记
+- title: 网页设计学习笔记
   url: /posts/rwd/
   excerpt: "在此展示学生学习笔记"
   image: xinde.jpg
