@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "学生网站笔记集合"
+title: "web note"
 date: 2017-12-30T11:40:45-04:00
 modified:
 excerpt: "展示学生网站笔记"

@@ -12,17 +12,19 @@ image:
 
 ## 个人联系信息
 
-- Wechat: 1255471240
+- Wechat: 15915713850
     
-- E-mail: 1255471240@qq.com
+- E-mail: 1945070004@qq.com
 
-- Tel: 15521509619
+- Tel: 15915713850
 
-- GitHub name:lamkk
+- GitHub name:zhongqiuru
 
 ## 个人信息
 
-蓝强
+钟秋茹
+
+一个兴趣很多却能力有限的小可爱。
 
 中大南方2016级文传系学生
 
