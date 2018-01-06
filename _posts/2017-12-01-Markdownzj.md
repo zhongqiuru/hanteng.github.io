@@ -2,10 +2,10 @@
 layout: article
 title:  "Markdown语法总结"
 date:   2017-12-31 22:07:50 +0800
-categories: tabnote 
+categories: tabnote
 image:
-  teaser: github-desktop-icon.svg
-  feature: github-desktop-icon.svg
+  teaser: markdown.png
+  feature: markdown.png
 ---
 markdown语法的使用。
 
