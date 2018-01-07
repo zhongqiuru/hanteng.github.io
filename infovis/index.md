@@ -10,7 +10,7 @@ image:
   teaser:
 --- 
 
-<iframe src="https://public.tableau.com/views/_18328/1_2?:embed=y&:display_count=yes&publish=yes" width="740px" height="4800px" frameborder="0"></iframe>
+<iframe src="https://public.tableau.com/views/_18328/1_2?:embed=y&:display_count=yes&publish=yes" width="700px" height="480px" frameborder="0"></iframe>
 
 <div class="tiles">
 {% for post in site.categories.tab %}
