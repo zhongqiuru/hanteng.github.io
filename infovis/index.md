@@ -7,7 +7,7 @@ excerpt: "展示学生的信息可视化作品"
 tags: []
 image: 
   feature: 123.png
-  teaser:
+  teaser: 123.png
 ---
 Tableau作品
 
