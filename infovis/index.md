@@ -18,7 +18,7 @@ Tableau作品
 <br>
 <br>
 <div class="tiles">
-{% for post in site.categories.tableau %}
+{% for post in site.categories.tab %}
   {% include post-grid.html %}
 {% endfor %}
 </div><!-- /.tiles -->
