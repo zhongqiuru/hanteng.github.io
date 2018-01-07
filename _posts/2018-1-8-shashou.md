@@ -4,8 +4,8 @@ title:  "学期初网页作品"
 date:   2018-01-01 16:07:50 +0800
 categories: portfolio
 image:
-  teaser: wangye.png
-  feature: wangye.png
+  teaser: shashou.jpg
+  feature: shashou.jpg
 ---
 这个杀手不太冷影评
 
