@@ -9,8 +9,7 @@ image:
   feature: webb.jpg
   teaser:
 ---
-
-在此展示学生作品集，好的丶可改进的及有趣的
+以下是网页设计的作品展示！
 
 <div class="tiles">
 {% for post in site.categories.portfolio %}
