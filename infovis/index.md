@@ -13,7 +13,7 @@ image:
 ### 在此展示学生可视化作品集！！ 
 #### ↓ ↓ ↓
 
-<iframe src="https://public.tableau.com/views/_18328/1_2?:embed=y&:display_count=yes&publish=yes" width="1000px" height="1000px" frameborder="0"></iframe>
+<iframe src="https://public.tableau.com/views/_18328/1_2?:embed=y&:display_count=yes&publish=yes" width="685px" height="570px" frameborder="0"></iframe>
 
 <div class="tiles">
 {% for post in site.categories.tab %}
