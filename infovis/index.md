@@ -9,9 +9,7 @@ image:
   feature: 
   teaser:
 ---
-
-### 在此展示学生可视化作品集！！ 
-#### ↓ ↓ ↓
+在此展示学生可视化作品集！！ 
 
 <iframe src="https://public.tableau.com/views/_18328/1_2?:embed=y&:display_count=yes&publish=yes" width="600px" height="500px" frameborder="0"></iframe>
 
